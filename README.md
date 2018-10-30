@@ -17,6 +17,7 @@ It is recommended to run this from the atom editor, simply install the atom-runn
 
 ## Features
 
+- collision detection
 - space ship movement and shooting controls  
 - score tracking, points increase for each enemy defeated
 - lives are tracked, points are accrued for 3 lives before a game over
